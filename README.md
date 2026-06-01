@@ -10,4 +10,4 @@ Python and R.
 📊 **Building skills in:** statistical analysis · reproducible research · data visualisation
 🧠 **Field:** psychology & neuropsychology
 🌍 **Based in** Dubai, UAE
-🔗 www.linkedin.com/in/nataliepdfrank
+🔗 .[LinkedIn](www.linkedin.com/in/nataliepdfrank)
