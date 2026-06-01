@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Natalie 👋
 
-<!--
-**NatalieFrank/NatalieFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Psychology student building a data-analysis portfolio as I work toward
+postgraduate research in neuropsychology.
 
-Here are some ideas to get you started:
+This is where I share real projects — actual research work, not tutorials —
+as I develop my analysis skills. Starting with Jamovi, and moving into
+Python and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Building skills in:** statistical analysis · reproducible research · data visualisation
+🧠 **Field:** psychology & neuropsychology
+🌍 **Based in** Dubai, UAE
+🔗 [LinkedIn](https://www.linkedin.com/in/nataliepdfrank)
